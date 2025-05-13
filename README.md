@@ -1,5 +1,7 @@
 ## Hi, I'm Gema!
 
+Part-Time NeoVim User
+
 <!--
 **gemasagara/gemasagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
